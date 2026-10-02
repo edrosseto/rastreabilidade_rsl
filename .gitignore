@@ -14,3 +14,6 @@
 *.tmp
 desktop.ini
 Thumbs.db
+
+# Textos de apoio mantidos só localmente
+*.md
