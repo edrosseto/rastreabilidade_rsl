@@ -1,0 +1,16 @@
+# Artigos em texto completo (direitos autorais dos editores): não publicar
+03_Fichas/PDFs Inclusos/
+
+# Exportações brutas das bases (IEEE, Scopus, ACM): contêm resumos sujeitos a termos de uso
+01_Busca/**/*.csv
+01_Busca/**/*.bib
+01_Busca/**/*.xlsx
+
+# Planilha master original (contém a coluna Abstract); publicada a versão sem resumos
+02_Triagem/Master_Triagem_20260718.xlsx
+
+# Arquivos temporários/sistema
+~$*
+*.tmp
+desktop.ini
+Thumbs.db
